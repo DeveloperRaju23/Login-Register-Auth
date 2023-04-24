@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.primary_btn{
+@apply px-6 py-2  border-r-gray-50 hover:bg-slate-50 hover:text-black border-2 rounded text-xl shadow-lg
+}
